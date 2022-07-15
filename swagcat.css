@@ -1,0 +1,164 @@
+body {
+ background-image: url('guf/worm-worm-dance.gif');
+ background-size: 25% 25%;
+ font-size: 1em;
+}
+
+.swagcatimage {
+
+  width: 19%;
+  height: 100px;
+
+}
+
+.kitty {
+
+  width: 350px;
+  height: 200px;
+
+}
+
+.gifs {
+
+  width: 250px;
+  height: 300px;
+
+}
+
+.title {
+
+  width: 90%;
+  height: 200px;
+
+}
+
+.full-width {
+
+  width: auto;
+
+}
+
+h1 {
+  margin-top: 0px;
+  margin-bottom: 100px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 2rem;
+  letter-spacing: 0.15rem;
+  text-transform: uppercase;
+  color: #fff;
+  text-shadow: -4px 4px #ef3550,
+               -8px 8px #f48fb1,
+               -12px 12px #7e57c2,
+               -16px 16px #2196f3,
+               -20px 20px #26c6da,
+               -24px 24px #43a047,
+               -28px 28px #eeff41,
+               -32px 32px #f9a825,
+               -36px 36px #ff5722;
+             }
+
+h2 {
+
+  font-size: 2em;
+  font-family: 'Cormorant SC', serif;
+}
+
+video {
+
+  height: 400px;
+  width: 400px;
+}
+
+.marg {
+  margin-top: 25px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.flex-container > div {
+  margin: 10px;
+  padding: 20px;
+  font-size: 15px;
+  align-items: center;
+}
+
+.shadow {
+  box-shadow: 35px 35px 3px #ff00bb;
+}
+
+.shadow-gifs {
+  box-shadow: 35px 35px 3px #ebe534;
+}
+
+.badone {
+  box-shadow: -20px -20px 3px #ff00bb;
+}
+
+.shadow2 {
+  box-shadow: 20px 20px 3px #558200;
+}
+
+.mark {
+  background-color: orange;
+  color: black;
+}
+
+.viod {
+  background-color: #963700;
+}
+
+.rotate {
+  transform: rotate(-180deg);
+}
+
+.graw {
+  transition: width 1s, height 1s;
+}
+
+.graw:hover {
+  width: 300px;
+  height: 300px;
+}
+
+/* lolz!!!!!!!! */
+
+.swag-kat-image {
+
+  width: 300px;
+  height: 200px;
+
+}
+
+.swag-cat-gif {
+
+  width: 250px;
+  height: 300px;
+
+}
+
+.swag-cat-vido {
+
+  width: 250px;
+  height: 300px;
+  background-color: #000000;
+
+}
+
+.swag-shadow {
+  box-shadow: 20px 20px 3px #558200;
+}
+
+#demoObject {
+-webkit-box-shadow: 7px -5px 10px 0px #4B0082, 11px -9px 10px 0px #0000FF, 16px -14px 10px 0px #00FF00, 20px -17px 10px 0px #FFFF00, 24px -19px 10px 0px #FF7F00, 27px -23px 10px 0px #FF0000, 50px 50px 0px 0px rgba(0,0,0,0);
+box-shadow: 7px -5px 10px 0px #4B0082, 11px -9px 10px 0px #0000FF, 16px -14px 10px 0px #00FF00, 20px -17px 10px 0px #FFFF00, 24px -19px 10px 0px #FF7F00, 27px -23px 10px 0px #FF0000, 50px 50px 0px 0px rgba(0,0,0,0);
+background: #9400D3;
+}
+body#tinymce {
+background: #FFFFFF
+}
